@@ -1,0 +1,20 @@
+{
+  "name": "SDV_502_Git_Exercises",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CallumMcFadgen/SDV_502_Git_Exercises.git"
+  },
+  "keywords": [],
+  "author": "Callum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CallumMcFadgen/SDV_502_Git_Exercises/issues"
+  },
+  "homepage": "https://github.com/CallumMcFadgen/SDV_502_Git_Exercises#readme"
+}
